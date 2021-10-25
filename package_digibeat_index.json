@@ -17,7 +17,7 @@
 			"help": {
 				"online": "http://forum.arduino.cc/index.php?board=98.0"
 			},
-			"url": "https://github.com/bassmanbigc93/digibeat/blob/main/digibeat_samd_0.1.zip",
+			"url": "https://github.com/bassmanbigc93/digibeat/blob/main/digibeat_samd_0.1.zip?raw=true",
 			"archiveFileName": "digibeat_samd_0.1.zip",
 			"checksum": "SHA-256:120DFDFC93562315EBF423720401D7DA56F6937BA39D888D54F3681E8DE4B643",
 			"size": "1224147",
