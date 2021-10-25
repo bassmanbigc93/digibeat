@@ -14,8 +14,8 @@
 			},
 			"url": "https://github.com/bassmanbigc93/digibeat/blob/main/digibeat_samd_0.1.zip?raw=true",
 			"archiveFileName": "digibeat_samd_0.1.zip",
-			"checksum": "SHA-256:FC2FF92F1A78EC392AB7B2B8C1CF3FFC52DA6712EE6D0DC750901F10E61E52D7",
-			"size": "1234245",
+			"checksum": "SHA-256:186B571871F0D6F2A86966208F86152C6B2868EB950B196163FB2726BE393E3D",
+			"size": "1230086",
 			"boards": [
 			{"name": "DigiBEAT / W-A"}
 			],
