@@ -3,7 +3,11 @@
 	{
 		"name": "DigiBEAT",
 		"maintainer": "WitWerks",
-		"email": "calvin@witwerks.com",
+		"websiteURL": "http://www.rabidprototypes.com/",
+		"email": "support@rabidprototypes.com",
+		"help": {
+			"online": "http://forum.arduino.cc/index.php?board=98.0"
+		},
 		"platforms": [
 		{
 			"name": "DigiBEAT",
