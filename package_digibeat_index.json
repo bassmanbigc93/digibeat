@@ -3,11 +3,6 @@
 	{
 		"name": "DigiBEAT",
 		"maintainer": "WitWerks",
-		"websiteURL": "http://www.rabidprototypes.com/",
-		"email": "support@rabidprototypes.com",
-		"help": {
-			"online": "http://forum.arduino.cc/index.php?board=98.0"
-		},
 		"platforms": [
 		{
 			"name": "DigiBEAT",
@@ -19,8 +14,8 @@
 			},
 			"url": "https://github.com/bassmanbigc93/digibeat/blob/main/digibeat_samd_0.1.zip?raw=true",
 			"archiveFileName": "digibeat_samd_0.1.zip",
-			"checksum": "SHA-256:120DFDFC93562315EBF423720401D7DA56F6937BA39D888D54F3681E8DE4B643",
-			"size": "1224147",
+			"checksum": "SHA-256:FC2FF92F1A78EC392AB7B2B8C1CF3FFC52DA6712EE6D0DC750901F10E61E52D7",
+			"size": "1234245",
 			"boards": [
 			{"name": "DigiBEAT / W-A"}
 			],
